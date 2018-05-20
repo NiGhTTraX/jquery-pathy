@@ -1,6 +1,8 @@
 jquery-pathy
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NiGhTTraX/jquery-pathy.svg)](https://greenkeeper.io/)
+
 
 Usage
 -----
